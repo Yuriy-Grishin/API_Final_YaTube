@@ -1,6 +1,6 @@
 ## Описание проекта 
 
-API для Yatube. 
+API для YaTube. 
 
 Социалная сеть со следующими функциями: публикация постов и комментариев, подписка на авторов.
 Доступна работа со следующими методами: GET, POST, PATCH, DELETE, PUT.
@@ -29,7 +29,7 @@ DRF Simple JWT
 
 ## Как запустить проект
 Клонировать репозиторий и перейти в него в командной строке:
-git clone https://github.com/Yuriy-Grishin/api_final_yatube.git
+git clone https://github.com/Yuriy-Grishin/API_Final_YaTube.git
 
 Cоздать и активировать виртуальное окружение:
 python -m venv env
